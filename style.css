@@ -1,0 +1,38 @@
+header {
+padding: 10px;
+  color:white;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.skills li {
+  color: red;
+    margin: 20px;
+    list-style-type:none;
+body {
+  font-size: 1em;
+}
+  }
+div {
+  flex-wrap: wrap;
+}
+
+footer div{
+  padding: 10px;
+  color:white;
+  font-size: 1em;
+  display: inline-block;
+  float: none;
+    font-family: cursive;
+  }
+  footer::selection {
+    background: orange;
+    background-color: orange;
+  }
+  a {
+    color: white;
+  }
+  a:hover {
+    color: orange;
+  }
